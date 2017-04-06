@@ -1,0 +1,11 @@
+
+\squid:S1213";Move this constructor to comply with Java Code Conventions.(ôœÈ¨øÿÿÿÿ8Íµ¾Ñ°+
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(óäæ‹8€šÊ•°+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ßÕäØÿÿÿÿÿ8ŞìÓ°+
+Tsquid:S1213"8Move this variable to comply with Java Code Conventions.(óäæ‹8Íµ¾Ñ°+
+Msquid:S1612",Replace this lambda with a method reference.(ÛŠ²Ûüÿÿÿÿ8ÛßÑÏ°+
+Nsquid:S1068"-Remove this unused "something" private field.(ßÕäØÿÿÿÿÿ8â÷ëÓ°+
+‰"squid:ClassVariableVisibilityCheck"QMake state a static final constant or non-public and provide accessors if needed.(ÛŠ²Ûüÿÿÿÿ8ãüÆ•°+
+lsquid:S1609"KAnnotate the "Something" interface with the @FunctionalInterface annotation(†çö¡şÿÿÿÿ8â÷ëÓ°+
+Ysquid:S1213"8Move this variable to comply with Java Code Conventions.(ÛŠ²Ûüÿÿÿÿ8Íµ¾Ñ°+
